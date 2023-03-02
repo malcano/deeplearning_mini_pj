@@ -5,4 +5,4 @@
 *.zip
 *.png
 *.json
-
+.DS_Store
