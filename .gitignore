@@ -6,3 +6,4 @@
 *.png
 *.json
 .DS_Store
+/kobert_model
